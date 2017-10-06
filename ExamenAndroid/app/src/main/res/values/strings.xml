@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExamenAndroid</string>
+    <string name="searchButtonText">Search</string>
+    <string name="addressTextField">Address</string>
+    <string name="descriptionTxtView">Add a description: </string>
+    <string name="postDescrButton">Post description</string>
+</resources>
